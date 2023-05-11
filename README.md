@@ -1,4 +1,4 @@
-# intraday_stock_database
+# intraday_stock_database_Tradier
 Utilizing Tradier's API, postgresDB and python to build an intraday stock database
 
 Credits to [PartTimeLarry](https://www.youtube.com/@parttimelarry) for all the tutorials he puts out.
